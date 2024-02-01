@@ -19,3 +19,8 @@ Gangverse Darkside Staking: 0x33EFAA02B3F80F20676C478d3A1EDA1A47ECA0a3
 **Rewards Token:**
 
 wCRO Token: 0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23
+
+
+**Docs:**
+
+https://docs.gangverse.club/
