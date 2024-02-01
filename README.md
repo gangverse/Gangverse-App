@@ -1,4 +1,4 @@
-# Gangverse-App
+# Gangverse App
 NFT Mint &amp; Staking Platform
 
 **Contracts deployed at Cronos Chain:**
